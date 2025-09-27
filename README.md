@@ -5,7 +5,7 @@ I'm a Full-Stack Developer building the bridge between Web2 and Web3. 🚀
 - 🔭 I’m currently working on a full-stack MERN application with TypeScript.
 - 🌱 I’m currently learning **Solidity and Smart Contract development**.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 📫 How to reach me: [Your LinkedIn or Twitter link]
+- 📫 How to reach me:(https://x.com/VishantJadhav7)
 
 ---
 
