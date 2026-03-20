@@ -12,7 +12,7 @@ I'm a Full-Stack Developer building the bridge between Web2 and Web3. 🚀
 ### 🛠️ My Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,mongodb,tailwind" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,react,nodejs,express,mongodb,tailwind" />
 </p>
 
 ---
