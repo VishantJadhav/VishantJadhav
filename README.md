@@ -1,25 +1,30 @@
 ### Hi there, I'm Vishant 👋
 
-I'm a Full-Stack Developer building the bridge between Web2 and Web3. 🚀
+I'm a Full-Stack Web3 Architect building high-stakes, decentralized protocols on Solana. 🚀
 
-- 🔭 I’m currently working on a full-stack MERN application with TypeScript.
-- 🌱 I’m currently learning **Solidity and Smart Contract development**.
-- 👯 I’m looking to collaborate on exciting open-source projects.
-- 📫 How to reach me:(https://x.com/VishantJadhav7)
+- 🔭 I’m currently building robust Web3 architectures using **Rust, Anchor, TypeScript, and React**.
+- ⚡ I'm actively engineering **ForgeFi**, a dark-fitness DeFi protocol utilizing strict geolocation oracles and autonomous executioner bots.
+- 🌱 I’m currently exploring **Zero-Knowledge proofs, Liquid Staking Tokens (LSTs), and decentralized automation** to transition hackathon MVPs into Mainnet-ready products.
+- 🏋️‍♂️ Passionate about merging real-world iron (6-day PPL splits) with ruthless blockchain mechanics. 
+- 📫 How to reach me: [https://x.com/VishantJadhav7](https://x.com/VishantJadhav7)
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts,rust,react,nodejs,express,mongodb,tailwind" />
-</p>
+</div>
 
 ---
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishantJadhav&show_icons=true&theme=tokyonight" alt="Vishant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishantJadhav&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/VishantJadhav">
+    <img src="https://github-readme-stats.vercel.app/api?username=VishantJadhav&show_icons=true&theme=tokyonight&v=1" alt="Vishant's GitHub Stats" />
+  </a>
+  <a href="https://github.com/VishantJadhav">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishantJadhav&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+  </a>
+</div>
