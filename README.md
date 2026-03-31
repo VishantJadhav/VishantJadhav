@@ -21,7 +21,7 @@ I'm a Full-Stack Web3 Architect building high-stakes, decentralized protocols on
 
 <div align="center">
   <a href="https://github.com/VishantJadhav">
-    <img src="https://github-stats-extended.vercel.app/api?username=VishantJadhav&show_icons=true&theme=tokyonight" alt="Vishant's GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=VishantJadhav&show_icons=true&theme=tokyonight&commits_year=2026" alt="Vishant's GitHub Stats" />
   </a>
   <a href="https://github.com/VishantJadhav">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VishantJadhav&layout=compact&theme=tokyonight" alt="Top Languages" />
